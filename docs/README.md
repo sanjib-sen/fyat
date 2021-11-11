@@ -301,6 +301,17 @@ Answer: No. You cannot change it.
 - [[Procedure for Issuing Documents](https://www.bracu.ac.bd/academics/office-registrar/procedure-issuing-documents)]
 
 # Important Emails
+## DCO (CSE)
+Only for Department Change, Semester Drop etc.
+
+| NAME                    | Designation | Email                       |
+| ----------------------- | ----------- | --------------------------- |
+| Mr. G.M. Zilani         | DCO         | gm.zilani@bracu.ac.bd       |
+| Mr. Anis Sharif         | DCO         | anis.sharif@bracu.ac.bd     |
+| Mr. Md. Rezwanur Rahman | DCO         | rezwanur.rahman@bracu.ac.bd |
+
+
+## Others
 
 | Concerned Office                         | Purpose                                                                                                                                                                                        | Email address                                                          |
 | ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
