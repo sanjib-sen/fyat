@@ -53,11 +53,6 @@ If you get less than 1.0 in the first semester you will be asked to withdraw you
 
 
 ## Retake and Repeat
-Repeat exam is considered as a privilege; as such it is offered for an exceptional situation of students to improve their grades. BracU definitely does not want it to be a trend or norm. We expect students to do well in their regular exams. That is why the repeat fee has been kept at regular rate. The reason for charging such fee is not to consider it as a revenue generation source but to discourage any abuse.
-
-Because, the cut-off point for a repeat exam is below ‘B’, it is only fair to the students who got B and above to restrict the highest repeat grade to B+. Arguments can be made to lower or raise the cut-off grade of repeat, for which no consensus can be reached. A compromise has to be made on administrative capacity and student opportunity in this regard. BracU wants to impart fairness and equal opportunity to all of its students which also ensures that repeat or fail courses never appear in the transcript. 
-
-However, considering fairness to all students who already availed the old rules and regulation, applicability of the revised Retake, Repeat and Probation policy would be effective to all students enrolled in Summer-2019 and onward as followed:
 
 1. **Retake**: A student getting “F” grade in a course will be allowed to retake the course twice with the proviso that the student received at least a C grade in all other subjects taken during the semester. In other words, getting a D or F in more than one subject in a semester will allow the student to retake F grade subject only once. In case of non-credit course (091/092 category) taken in the first/second semester, will only be allowed to retake once. However, course so retaken will not be awarded more than B plus (B+) grade.
 
@@ -199,18 +194,6 @@ Telephone: 148 (ext)
 
 **Email:** <counseling@bracu.ac.bd>
 
-## Confidentiality
-
-The Counseling and Psychological Services at the Brac University strictly protects the confidentiality of information shared during and after sessions. All personal details and the contentsof the counseling sessions are kept confidential. The counselors adhere to the British Association for Counseling and Psychotherapy (BACP) ethical framework which is available on the BACP website.
-
-There are some exceptions of this general rules, where for the wellbeing of the client, sometimes it is very necessary to disclose few relevant information to the client's responsible person. Counselors will only do this if client is in an agreement that it would be helpful and client has given written consent to the counselors.
-
-Following are the exceptions, where with the consent of the client, counselor may disclose information:
-
-1. In instances where there is imminent danger of serious harm to self or others.\
-2. In cases involving physical and/or sexual abuse.
-
-
 ## More
 
 - [Services](https://www.bracu.ac.bd/campus-life/student-affairs/counseling-unit/services)
@@ -325,6 +308,10 @@ Only for Department Change, Semester Drop etc.
 | Admission Office                         | Admission, Applicant failed to download Payslip, Applicant wants to change information, Fresher's wrong non-credit course shown purpose                                                        | [admission-support@bracu.ac.bd](mailto:admissions-support@bracu.ac.bd) |
 | Office of the controller of Examinations | Make up Exam, Probation (block/unblock), Transcript/certificate, Query regarding CGPA/Credit count                                                                                             | academic.records@bracu.ac.bd                                           |
 |                                          |
+
+
+# FYAT Sessions
+- [Pre-Mid Advising (11th Nov, 2021)](https://drive.google.com/file/d/1kyzVU1qRh24RII7V8S9U2rWYzqUvhF5r/view?usp=sharing)
 
 # Contact Me
 
