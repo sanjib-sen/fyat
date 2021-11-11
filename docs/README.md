@@ -19,8 +19,7 @@
 - [**MAT110**](https://classroom.google.com/u/0/c/NDEwOTU0ODUxODI1?cjc=4kavwjk)
 - [**PHY111**](https://classroom.google.com/u/0/c/NDEwOTU0ODUxODM5?cjc=z6yytl5)
 
-# Academic Supplementories
-
+# Academic Aids
 ## MNS
 
 - [MAT110](https://drive.google.com/drive/folders/1b5olLsK5IfvbOl6YyV_ObDhwyRZ4FnUl?usp=sharing)
@@ -30,8 +29,8 @@
 
 ## Other Courses
 
-- [Previous Questions and Supplementories](https://drive.google.com/drive/folders/12RLG8At556qE4U_KsaQppnF7fN1fqsUS?usp=sharing)
-- [Supplementories for CSE Department](https://drive.google.com/drive/folders/1nS4eE61mo9DAoLad-3OsdxziX8elaozL?usp=sharing)
+- [Previous Questions, Assignments and Solutions](https://drive.google.com/drive/folders/12RLG8At556qE4U_KsaQppnF7fN1fqsUS?usp=sharing)
+- [Aid for CSE Department](https://drive.google.com/drive/folders/1nS4eE61mo9DAoLad-3OsdxziX8elaozL?usp=sharing)
 
 ## Faculty Suggestions for Recorded Class
 
@@ -51,6 +50,20 @@ Minimum **85-90%** In BIL Courses, Minimum **70%** In All Other Courses. Below T
 If your CGPA falls below 1.5 you will be in probation period. There will be some restrictions and policy for that period. If you can't improve your grade within 2 semesters you will suspended.
 
 If you get less than 1.0 in the first semester you will be asked to withdraw your admission.
+
+
+## Retake and Repeat
+Repeat exam is considered as a privilege; as such it is offered for an exceptional situation of students to improve their grades. BracU definitely does not want it to be a trend or norm. We expect students to do well in their regular exams. That is why the repeat fee has been kept at regular rate. The reason for charging such fee is not to consider it as a revenue generation source but to discourage any abuse.
+
+Because, the cut-off point for a repeat exam is below ‘B’, it is only fair to the students who got B and above to restrict the highest repeat grade to B+. Arguments can be made to lower or raise the cut-off grade of repeat, for which no consensus can be reached. A compromise has to be made on administrative capacity and student opportunity in this regard. BracU wants to impart fairness and equal opportunity to all of its students which also ensures that repeat or fail courses never appear in the transcript. 
+
+However, considering fairness to all students who already availed the old rules and regulation, applicability of the revised Retake, Repeat and Probation policy would be effective to all students enrolled in Summer-2019 and onward as followed:
+
+1. **Retake**: A student getting “F” grade in a course will be allowed to retake the course twice with the proviso that the student received at least a C grade in all other subjects taken during the semester. In other words, getting a D or F in more than one subject in a semester will allow the student to retake F grade subject only once. In case of non-credit course (091/092 category) taken in the first/second semester, will only be allowed to retake once. However, course so retaken will not be awarded more than B plus (B+) grade.
+
+2. **Repeat**: Students with a grade of B minus (B-) or below may repeat a course once; but shall not be awarded a grade of more than B plus (B+) in that particular course.
+
+3. **Probation**: Students are expected to maintain a minimum CGPA of 1.5, otherwise the student will be put on probation for the following semester. If a student on probation fails to raise CGPA to 1.5 in two consecutive semesters s/he will be dismissed from the University. Students whose grade point average is below 1.0 in their first semester may be asked to withdraw from the university. Students will be allowed to continue with a CGPA of 1.50 up to sixth semester, (in case of Pharmacy students up to fourth semester). However, at the end of the sixth semester/fourth semester for Pharmacy, students must have a CGPA of 2.00 in order to continue his/her studies in the undergraduate programs.
 
 ## Academic Calendar
 
@@ -121,14 +134,109 @@ Details can be found [here](https://www.bracu.ac.bd/international-applicants/sch
 Join CSE ST Lab in discord to get study related help from student tutors.
 Ask Your Respective Faculty Members For The Infos Of ST / TA and the discord invitation link.
 
+# Clubs
 
-## buX Guideline
+The list:
 
-### Get Google Calendar Notifications
+1. [BRAC University Computer Club](https://www.facebook.com/BRACUCC)
+1. [BRAC University Debate Club](https://www.facebook.com/BUDC.Offical)
+2. [BRAC University Business & Economics Forum](https://www.facebook.com/beforum)
+3. [BRAC University Communication & Language Club](https://www.facebook.com/BUCLC)
+4. [BRAC University Response Team](https://www.facebook.com/buresponseteam)
+5. [BRAC University Adventure Club](https://www.facebook.com/buacofficial)
+6. [Football Club of BRAC University](https://www.facebook.com/official.fcbu11)
+7. [Cricket BRAC University ](https://www.facebook.com/CricketBRACUniversity)
+8. [BRAC University Marketing Association](https://www.facebook.com/bracuma)
+9. [BRAC University Film Club](https://www.facebook.com/BRACUFC)
+10. [BRAC University Leadership Development Forum](https://www.facebook.com/bracu.ldf)
+11. [BRAC University Law Society](https://www.facebook.com/BULawSociety1)
+12. [BRAC University Art & Photography Society](https://www.facebook.com/BRACUAPS)
+13. [BRAC University Natural Sciences Club](https://www.facebook.com/bracunsc)
+14. [BRAC University Pharma Society](https://www.facebook.com/BUPS.BRACU)
+15. [BRAC University Drama And Theatre Forum](https://www.facebook.com/bracu.dtf)
+16. [IABC BRAC University](https://www.facebook.com/iabcbracu)
+17. [BRAC University Chess Club](https://www.facebook.com/realbuchc)
+18. [Finance and Accounting Club of BRAC University](https://www.facebook.com/FINACTBracu)
+19. [Robotics Club of BRAC University](https://www.facebook.com/BRACU.Robotics.Club)
+20. [BRAC University Electrical and Electronic Club](https://www.facebook.com/bracueec)
+21. [BRAC University Indoor Games Club](https://www.facebook.com/indoorgamesclub)
+22. [BRAC University Cultural Club](https://www.facebook.com/bucuc)
+23. [BRAC University Entrepreneurship Development Forum](https://www.facebook.com/BRACU.EDF)
+24. [BRAC University Business Club](https://www.facebook.com/bubizbee.org)
+25. [BRAC University Economics Club](https://www.facebook.com/buec.official)
+26. [BRAC UNIVERSITY MONON](https://www.facebook.com/MONON.BRACU)
+
+
+# Counselling Unit
+
+Counseling Unit is to support an environment that fosters personal growth, development, and psychological wellbeing of students, faculty members and staffs through direct counseling service, education, and prevention. The Counseling Unit is committed to:
+
+- Maintain Confidentiality
+- Human Rights and Equality
+- Promoting Respect for individual and cultural differences
+- Following ethical guideline
+- Provide empathy and support
+- Access and equity
+
+## To Make Appointment
+
+Student, faculties and staff can directly make an appointment with the counselors.
+
+One can also contact with the counselors over phone or find the [Information Form](https://www.bracu.ac.bd/sites/default/files/campus-life/counseling/Information_Form.doc) and send it to the Counseling Unit's e-mail.
+
+To refer anyone, please find the [Referred Form](https://www.bracu.ac.bd/sites/default/files/campus-life/counseling/Referred_Form_coun_bracu.doc) and send it to the Counseling Unit directly or via e-mail.
+
+## Contacts
+
+**Mohakhali Campus**
+Room No: (UB 20205, UB20206, UB 20805, UB 20905, UB20908, UB 21105, UB60703 and UB 60708)\
+Rankstel: +8809617445157, +8809617445158\
+Telephone: +880-2-9844051 Ext. 4053
+
+**Residential Campus (Savar)**
+Onnesha Building, Room No. OB104 and OB105\
+Telephone: 148 (ext)
+
+**Email:** <counseling@bracu.ac.bd>
+
+## Confidentiality
+
+The Counseling and Psychological Services at the Brac University strictly protects the confidentiality of information shared during and after sessions. All personal details and the contentsof the counseling sessions are kept confidential. The counselors adhere to the British Association for Counseling and Psychotherapy (BACP) ethical framework which is available on the BACP website.
+
+There are some exceptions of this general rules, where for the wellbeing of the client, sometimes it is very necessary to disclose few relevant information to the client's responsible person. Counselors will only do this if client is in an agreement that it would be helpful and client has given written consent to the counselors.
+
+Following are the exceptions, where with the consent of the client, counselor may disclose information:
+
+1. In instances where there is imminent danger of serious harm to self or others.\
+2. In cases involving physical and/or sexual abuse.
+
+
+## More
+
+- [Services](https://www.bracu.ac.bd/campus-life/student-affairs/counseling-unit/services)
+- [FAQs](https://www.bracu.ac.bd/campus-life/student-affairs/counseling-unit/counseling-faq)
+- [Contact](https://www.bracu.ac.bd/campus-life/student-affairs/counseling-unit/counseling-team)
+
+
+# Other Services
+
+- [Code of Conduct on Sexual Harassment](http://www.bracu.ac.bd/sites/default/files/registrar/coc/Code-of-Conduct-Sexual-Harassment-bracu-web.pdf)
+- [Dress Code](https://www.bracu.ac.bd/resources/dress-code)
+- [Medical Center](https://www.bracu.ac.bd/campus-life/medical-center)
+- [Office of Student Affairs (OSA)](https://www.bracu.ac.bd/campus-life/office-student-affairs-osa)
+- [Office of Career Services & Alumni Relations (OCSAR)](https://www.bracu.ac.bd/campus-life/student-affairs/ocsar)
+- [Office of Academic Advising (OAA)](https://www.bracu.ac.bd/campus-life/office-academic-advising-oaa)
+- [Office of Co-curricular Activities (OCA)](https://www.bracu.ac.bd/campus-life/office-co-curricular-activities-oca)
+- [Policy](https://www.bracu.ac.bd/campus-life/policy)
+- [Relationship Management Office (RMO)](https://www.bracu.ac.bd/campus-life/relationship-management-office-rmo)
+
+# buX Guideline
+
+## Get Google Calendar Notifications
 
 [Youtube Video Link](https://www.youtube.com/watch?v=_Koc1gUbzuI)
 
-### Course Enrollment
+## Course Enrollment
 
 [Link](https://bux.bracu.ac.bd/courses)
 
@@ -142,12 +250,12 @@ desired course.
 instructor, then collect it from the Department Coordinator
 (DCO).
 
-### buX Support
+## buX Support
 
 - If you need any technical support regarding buX, please write to bux.studentcare@g.bracu.ac.bd or
 bux.support@bracu.ac.bd.
 
-### Youtube Playlist for BUX
+## Youtube Playlist for BUX
 
 - For more information on buX, please watch the following [Videos](https://www.youtube.com/playlist?list=PL7v9IZwqVRs61VTNZqb0PF8JlksikwATh&fbclid=IwAR1u-9ZZbyyXnXlQ5OtK-CPkrDE-FFHf5q77F9Zped-Q6Kj1rH3-9_5I1EU)
 
