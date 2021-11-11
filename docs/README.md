@@ -14,18 +14,23 @@
 
 ![Saif Kabir Sir](/img/tut_saif.jpg)
 
-## Google Classroom
+## Google Classroom for Tutorial Sessions
+
+> Links for Recorded Classes can be found here
 
 - [**MAT110**](https://classroom.google.com/u/0/c/NDEwOTU0ODUxODI1?cjc=4kavwjk)
 - [**PHY111**](https://classroom.google.com/u/0/c/NDEwOTU0ODUxODM5?cjc=z6yytl5)
 
-# Academic Aids
+# Academic Aid
 ## MNS
 
 - [MAT110](https://drive.google.com/drive/folders/1b5olLsK5IfvbOl6YyV_ObDhwyRZ4FnUl?usp=sharing)
 - [MAT120](https://drive.google.com/drive/folders/16AhH--bHv9rvP3sC8Xup5xhy8HB8ks7W?usp=sharing)
 - [MAT215](https://drive.google.com/drive/folders/1rdoWy8qsvVgIFKZlUJE7g4aQWPAHhxXY?usp=sharing)
 - [MAT216](https://drive.google.com/drive/folders/1rdoWy8qsvVgIFKZlUJE7g4aQWPAHhxXY?usp=sharing)
+
+## CSE
+- [CSE110/CSE111](https://www.youtube.com/watch?v=xjcCi6Tzfxw&list=PLgH5QX0i9K3rz5XqMsTk41_j15_6682BN&ab_channel=AnisulIslam)
 
 ## Other Courses
 
