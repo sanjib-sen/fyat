@@ -1,4 +1,4 @@
-# Welcome to BRAC University
+# Welcome to CETUS Information Dashboard
 
 > Here you will get all the information in one place. Cheers!
 
@@ -123,6 +123,10 @@ Ask Your Respective Faculty Members For The Infos Of ST / TA and the discord inv
 
 
 ## buX Guideline
+
+### Get Google Calendar Notifications
+
+[Youtube Video Link](https://www.youtube.com/watch?v=_Koc1gUbzuI)
 
 ### Course Enrollment
 
