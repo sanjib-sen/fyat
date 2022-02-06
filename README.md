@@ -1,3 +1,3 @@
-# Welcome to CETUS Information Dashboard
+# Welcome to FYAT Information Dashboard
 
 > Here you will get all the information in one place. Cheers!
