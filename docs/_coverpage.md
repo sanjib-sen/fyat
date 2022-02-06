@@ -1,7 +1,7 @@
 
 ![logo](img/tiny.png)
 
-# CETUS, Fall'21
+# FYAT Information Dashboard
 
 > All information in One Place
 

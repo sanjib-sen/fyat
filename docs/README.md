@@ -1,4 +1,4 @@
-# Welcome to CETUS Information Dashboard
+# Welcome to FYAT Information Dashboard
 
 > Here you will get all the information in one place. Cheers!
 
@@ -8,18 +8,24 @@
 
 ## Shahed Alam Sir
 
-![Shahed Alam Sir](/img/tut_shahed.jpg)
+Coming Soon...
+
+<!-- ![Shahed Alam Sir](/img/tut_shahed.jpg) -->
 
 ## Md. Saif Kabir Sir
 
-![Saif Kabir Sir](/img/tut_saif.jpg)
+Coming Soon...
+
+<!-- ![Saif Kabir Sir](/img/tut_saif.jpg) -->
 
 ## Google Classroom for Tutorial Sessions
 
 > Links for Recorded Classes can be found here
 
-- [**MAT110**](https://classroom.google.com/u/0/c/NDEwOTU0ODUxODI1?cjc=4kavwjk)
-- [**PHY111**](https://classroom.google.com/u/0/c/NDEwOTU0ODUxODM5?cjc=z6yytl5)
+Coming Soon...
+
+<!-- - [**MAT110**](https://classroom.google.com/u/0/c/NDEwOTU0ODUxODI1?cjc=4kavwjk)
+- [**PHY111**](https://classroom.google.com/u/0/c/NDEwOTU0ODUxODM5?cjc=z6yytl5) -->
 
 # Academic Aid
 ## MNS
@@ -289,14 +295,27 @@ Answer: No. You cannot change it.
 - [[Procedure for Issuing Documents](https://www.bracu.ac.bd/academics/office-registrar/procedure-issuing-documents)]
 
 # Important Emails
-## DCO (CSE)
+## DCO (CSE/CS)
 Only for Department Change, Semester Drop etc.
 
 | NAME                    | Designation | Email                       |
 | ----------------------- | ----------- | --------------------------- |
 | Mr. G.M. Zilani         | DCO         | gm.zilani@bracu.ac.bd       |
-| Mr. Anis Sharif         | DCO         | anis.sharif@bracu.ac.bd     |
 | Mr. Md. Rezwanur Rahman | DCO         | rezwanur.rahman@bracu.ac.bd |
+
+## DCO (Other Courses)
+Only for Department Change, Semester Drop etc.
+
+| Dept.   | Email                       |
+| ------- | --------------------------- |
+| ARC     | saiduzzaman@bracu.ac.bd     |
+| BBA     | shahin@bracu.ac.bd          |
+| EEE/ECE | a.froza@bracu.ac.bd         |
+| ECO/ANT | chroy@bracu.ac.bd           |
+| LLB     | tnokrek@bracu.ac.bd         |
+| English | shahnoor@bracu.ac.bd        |
+
+**MIC/MAT/APE/PHY/BIO** : mostak@bracu.ac.bd
 
 
 ## Others
